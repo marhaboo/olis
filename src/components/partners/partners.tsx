@@ -1,5 +1,4 @@
 import React from "react";
-import Card from "../card/card";
 import logoOne from "@/images/partners/logo 31.svg"
 import logoTwo from "@/images/partners/logo 32.svg"
 import logoThree from "@/images/partners/logo 33.svg"
